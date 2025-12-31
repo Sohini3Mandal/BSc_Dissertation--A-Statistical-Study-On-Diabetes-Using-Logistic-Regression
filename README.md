@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my **B.Sc. Statistics (Hons.) dissertation project**, submitted to
+This repository contains my **B.Sc. Statistics (Hons.) dissertation**, submitted to
 **St. Xavier’s College (Autonomous), Kolkata**, under the supervision of **Prof. Madhura Dasgupta**.
 
 The study investigates the presence of diabetes using **binary logistic regression**, based on the **Pima Indians Diabetes Dataset**, with emphasis on statistical modeling, inference, and interpretation. The analysis was carried out using **R and Minitab**, focusing on classical statistical methods rather than machine learning approaches.
