@@ -2,10 +2,10 @@
 
 ## Overview
 
-This repository contains my **B.Sc. Statistics dissertation project**, submitted to
+This repository contains my **B.Sc. Statistics (Hons.) dissertation project**, submitted to
 **St. Xavier’s College (Autonomous), Kolkata**, under the supervision of **Prof. Madhura Dasgupta**.
 
-The study investigates the presence of diabetes using **binary logistic regression**, based on the **Pima Indians Diabetes Dataset**, with emphasis on statistical modeling, inference, and interpretation.
+The study investigates the presence of diabetes using **binary logistic regression**, based on the **Pima Indians Diabetes Dataset**, with emphasis on statistical modeling, inference, and interpretation. The analysis was carried out using **R and Minitab**, focusing on classical statistical methods rather than machine learning approaches.
 
 ---
 
@@ -32,8 +32,15 @@ All **results, tables, and visualizations** are presented and discussed within t
 * Categorical Data Analysis
 * Variance Inflation Factor (VIF) for multicollinearity
 * Binary Logistic Regression (MLE-based)
-* Wald Test for significance of predictors
+* Wald Tests for predictor significance
 * Confusion Matrix and ROC analysis for model evaluation
+
+---
+
+## Software Used
+
+* **R**
+* **Minitab** 
 
 ---
 
@@ -49,15 +56,13 @@ All **results, tables, and visualizations** are presented and discussed within t
 
 **Sohini Mandal**
 
-B.Sc. Statistics Hons. (2021–2024)
-
+B.Sc. Statistics (Honours), 2021–2024
 St. Xavier’s College (Autonomous), Kolkata
 
 ---
 
 ## Academic Note
 
-This repository is intended for **academic reference and learning purposes**. The analysis is based on sample data and forms my undergraduate dissertation.
+This repository is intended for **academic reference and learning purposes**. The analysis is based on sample data and constitutes my undergraduate dissertation.
 
 ---
-
